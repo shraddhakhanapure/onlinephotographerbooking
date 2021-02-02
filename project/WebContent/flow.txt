@@ -1,0 +1,30 @@
+Photographer: 
+1) SignUp --> done
+2) Login  -->done
+3) Fill complete profile with galary images -->done 
+4) check order updates --> pending
+
+# servlets:
+1) Signupforphotographer ==> insert data into db--> done
+2) controller==> for to set values to pojo objects-->done
+
+# simple class
+photographerPojo ==> generate setters & getters for photographer signup-->done
+
+
+
+Register.jsp==>controller==>photographerpojo==>SignUpPhotographer-->done
+
+
+===================================================================================
+Admin:
+1) SignIn-->done
+1.1) validate admin
+2) Check photographers with active & inactive status.
+3) Check customers purchase orders.
+
+User:
+1) Filter photographers
+2) view details
+3) login
+4) place order
